@@ -12,5 +12,5 @@ También agregué los campos `latitud`, `longitud` y `altitud` en la tabla `loca
 
 La base de datos MySQL se puede descargar desde la opción "releases" o dando click en el siguiente enlace:
 
-[Descargar aquí](https://github.com/developarts/cat_localidad/releases/latest)
+[Descargar aquí](https://github.com/Wh04m1x/CAT_INEGI_2018/releases/tag/v1)
 
